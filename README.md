@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sebrod06, but you can call me Sebastian!
 - 👀 I’m interested in engineering and computer science, as well as many other facets of the STEM field.
-- 🌱 I’m currently in a Foundations of CyberSecurity class, and I am learning the basics to be an engineer.
+- 🌱 I’m currently in a Data Structures class for Java and taking an Intro to Programming coruse at the University of Arlington this year, and I am learning the basics to be an engineer.
 - 💞️ I’m looking to collaborate on different projects wherever help is needed, as well as collaborating on my own little projects.
 - 📫 How to reach me: @sebastian.rodriguez.2020 on Instagram, or through my email: rodri369159@student.aisd.net
 
