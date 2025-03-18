@@ -4,7 +4,7 @@
 - 📫 How to reach me: My Email: sebrod244@utexas.edu
 
 *Also, check out my other socials:*
-Linkedin - https://www.linkedin.com/in/sebastian-rodriguez-hilarion
+Linkedin - https://www.linkedin.com/in/sebrod244
 
 *Some projects from hackathons I have attended can be seen on my Devpost profile!*
 Devpost - https://devpost.com/rodri369159?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
